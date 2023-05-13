@@ -12,7 +12,7 @@
 
 - 🔭 I’m currently working on [Eudio - a native app that assists people of low visual prowess.](https://github.com/john-amedzo/Eudio)
 
-- 🌱 I’m currently learning **Python, JavaScript and React.**
+- 🌱 I’m currently learning **Python, JavaScript, React and React-native.**
 
 - 👨‍💻 All of my projects are available at [https://github.com/john-amedzo](https://github.com/john-amedzo)
 
