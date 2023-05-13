@@ -8,7 +8,7 @@
 
 
 
-<p align="left"> <a href="https://twitter.com/@amedzojohn94" target="blank"><img src="https://img.shields.io/twitter/follow/@amedzojohn94?logo=twitter&style=for-the-badge" alt="@amedzojohn94" /></a> </p>
+<p align="left"> <a href="https://twitter.com/@amedzojohn94" target="blank"><img src="https://img.shields.io/twitter/follow/amedzojohn94?logo=twitter&style=for-the-badge" alt="@amedzojohn94" /></a> </p>
 
 - 🔭 I’m currently working on [Eudio - a native app that assists people of low visual prowess.](https://github.com/john-amedzo/Eudio)
 
