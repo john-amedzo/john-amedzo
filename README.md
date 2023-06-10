@@ -1,6 +1,6 @@
 <img alt="MasterHead" width="1200" height="500" align="center" src="https://i.pinimg.com/originals/f4/b9/46/f4b94691296f2dd9afd7369aad3acaf9.gif">
 <h1 align="center">Hi 👋, I'm John B. Amedzo</h1>
-<h3 align="center">A passionate native app and web developer from Ghana.</h3>
+<h3 align="center">A passionate mobile app and web developer from Ghana.</h3>
 <img alt="Coding" align="right" width="350" src="https://i.pinimg.com/originals/81/17/8b/81178b47a8598f0c81c4799f2cdd4057.gif">
 
 
