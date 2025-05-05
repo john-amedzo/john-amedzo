@@ -1,6 +1,6 @@
 <img alt="MasterHead" width="1200" height="500" align="center" src="https://i.pinimg.com/originals/f4/b9/46/f4b94691296f2dd9afd7369aad3acaf9.gif">
 <h1 align="center">Hi 👋, I'm John B. Amedzo</h1>
-<h3 align="center">A passionate mobile app and web developer from Ghana.</h3>
+<h3 align="center">A passionate web designer and developer from Ghana.</h3>
 <img alt="Coding" align="right" width="350" src="https://i.pinimg.com/originals/81/17/8b/81178b47a8598f0c81c4799f2cdd4057.gif">
 
 
@@ -10,17 +10,17 @@
 
 <p align="left"> <a href="https://twitter.com/@amedzojohn94" target="blank"><img src="https://img.shields.io/twitter/follow/amedzojohn94?logo=twitter&style=for-the-badge" alt="@amedzojohn94" /></a> </p>
 
-- 🔭 I’m currently working on [Eudio - a native app that assists people of low visual prowess.](https://github.com/john-amedzo/Eudio)
+- 🔭 At the moment, I am working on [The Ghana Photonics and Optics Laboratory and the KNUST Photonics Student Chapter websites]
 
-- 🌱 I’m currently learning **Python, JavaScript, React and React-native.**
+- 🌱 Currently started dabbling into the **Drupal** platform for web development.
 
 - 👨‍💻 All of my projects are available at [https://github.com/john-amedzo](https://github.com/john-amedzo)
 
-- 💬 Ask me about **React, React-native, JavaScript, HTML, CSS.**
+- 💬 Ask me about ** JavaScript, HTML, CSS, Bootsrap, React, React-native, JQuery.**
 
 - 📫 How to reach me **amedzojohn94@gmail.com**
 
-- ⚡ Fun fact **I love reading, gaming and singing.**
+- ⚡ Fun fact **I love reading, gaming, and you guessed it! --coding :D.**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
